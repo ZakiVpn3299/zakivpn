@@ -4,9 +4,9 @@ dns-server = system, 108.137.44.39, 108.137.44.9, puredns.org:853
 always-real-ip = stun.l.google.com
 
 [Proxy]
-🇩🇪 Zaki_Vpn_0 = vmess, oodi.zendesk.com, 443, username=4218c3fe-9bd8-4e8e-a953-23b27cd38f4a, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=false, vmess-aead=true, ws-headers=Host:gemws.mainssh.xyz, sni=gemws.mainssh.xyz
+🇩🇪 Zaki_Vpn_0 = vmess, oodi.zendesk.com, 443, username=4218c3fe-9bd8-4e8e-a953-23b27cd38f4a, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:gemws.mainssh.xyz, sni=gemws.mainssh.xyz
 
-🇳🇱 Zaki_Vpn_1= vmess, oodi.zendesk.com, 443, username=5fe6f810-9c39-11ed-b836-205c6d5f5d78, ws=true, tls=true, ws-path=/gpekbotr, skip-cert-verify=false, udp-relay=false, vmess-aead=true, ws-headers=Host:nl.0rd.net
+🇳🇱 Zaki_Vpn_1= vmess, oodi.zendesk.com, 443, username=5fe6f810-9c39-11ed-b836-205c6d5f5d78, ws=true, tls=true, ws-path=/gpekbotr, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:nl.0rd.net
 
 🇩🇪 Zaki_Vpn_2 = vmess, oodi.zendesk.com, 443, username=e39646d4-07c7-4929-a9f0-53e3f3745bca, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de2-full.privateip.net
 
@@ -20,7 +20,7 @@ always-real-ip = stun.l.google.com
 
 🇩🇪 Zaki_Vpn_01 = vmess, api.onesignal.com, 443, username=4218c3fe-9bd8-4e8e-a953-23b27cd38f4a, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=false, vmess-aead=true, ws-headers=Host:gemws.mainssh.xyz, sni=gemws.mainssh.xyz
 
-🇩🇪 Zaki_Vpn_02 = vmess, api.onesignal.com, 443, username=3d9263d6-ce62-435d-b2e6-8cffc8ddbec0, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de-full.privateip.net
+🇳🇱 Zaki_Vpn_02 = vmess, api.onesignal.com, 443, username=5fe6f810-9c39-11ed-b836-205c6d5f5d78, ws=true, tls=true, ws-path=/gpekbotr, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:nl.0rd.net
 
 🇩🇪 Zaki_Vpn_03 = vmess, api.onesignal.com, 443, username=e39646d4-07c7-4929-a9f0-53e3f3745bca, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de2-full.privateip.net
 
