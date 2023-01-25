@@ -8,9 +8,9 @@ always-real-ip = stun.l.google.com
 
 🇳🇱 Zaki_Vpn_1= vmess, oodi.zendesk.com, 443, username=5fe6f810-9c39-11ed-b836-205c6d5f5d78, ws=true, tls=true, ws-path=/gpekbotr, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:nl.0rd.net
 
-🇩🇪 Zaki_Vpn_2 = vmess, oodi.zendesk.com, 443, username=e39646d4-07c7-4929-a9f0-53e3f3745bca, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de2-full.privateip.net
+🇩🇪 Zaki_Vpn_2 = vmess, oodi.zendesk.com, 443, username=19fd7100-9c91-11ed-b232-205c6d5f5d78, ws=true, tls=true, ws-path=/y6a9e3pj, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:pl.0rd.net
 
-🇩🇪 Zaki_Vpn_3 = vmess, oodi.zendesk.com, 443, username=b76cf63c-e998-47e0-983c-c34f7ff685a8, ws=true, tls=true, ws-path=/freevmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de-freevmess.privateip.net
+🇬🇧 Zaki_Vpn_3 = vmess, oodi.zendesk.com, 443, username=d5711a80-9c91-11ed-b033-205c6d5f5d78, ws=true, tls=true, ws-path=/vgh02nf5, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:uk.0rd.net
 
 🇳🇱 Zaki_Vpn_4 = vmess, oodi.zendesk.com, 443, username=ec9a53bc-b166-45a6-8e1e-a5d5c67a51ec, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:nl-full.privateip.net
 
@@ -31,7 +31,7 @@ always-real-ip = stun.l.google.com
 🇩🇪 Zaki_Vpn_06 = trojan, api.onesignal.com, 443, password=123456aa, ws=true, ws-path=/trojan-ws, skip-cert-verify=false, udp-relay=false, ws-headers=Host:trojan-ctb-de01.globalssh.xyz, sni=trojan-ctb-de01.globalssh.xyz
 
 [Proxy Group]
-🤜_oodi = select, DIRECT, 🤜_earthlink, 🇩🇪 Zaki_Vpn_0, 🇳🇱 Zaki_Vpn_1, 🇩🇪 Zaki_Vpn_2, 🇩🇪 Zaki_Vpn_3, 🇳🇱 Zaki_Vpn_4, 🇸🇬 Zaki_Vpn_5, 🇩🇪 Zaki_Vpn_6
+🤜_oodi = select, DIRECT, 🤜_earthlink, 🇩🇪 Zaki_Vpn_0, 🇳🇱 Zaki_Vpn_1, 🇩🇪 Zaki_Vpn_2, 🇬🇧 Zaki_Vpn_3, 🇳🇱 Zaki_Vpn_4, 🇸🇬 Zaki_Vpn_5, 🇩🇪 Zaki_Vpn_6
 
 🤜_earthlink = select, 🇩🇪 Zaki_Vpn_01, 🇩🇪 Zaki_Vpn_02, 🇩🇪 Zaki_Vpn_03, 🇩🇪 Zaki_Vpn_04, 🇳🇱 Zaki_Vpn_05, 🇩🇪 Zaki_Vpn_06
 
