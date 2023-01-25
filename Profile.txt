@@ -33,7 +33,7 @@ always-real-ip = stun.l.google.com
 [Proxy Group]
 🤜_oodi = select, DIRECT, 🤜_earthlink, 🇩🇪 Zaki_Vpn_0, 🇳🇱 Zaki_Vpn_1, 🇩🇪 Zaki_Vpn_2, 🇩🇪 Zaki_Vpn_3, 🇳🇱 Zaki_Vpn_4, 🇸🇬 Zaki_Vpn_5, 🇩🇪 Zaki_Vpn_6
 
-🤜_earthlink = select, 🇩🇪 Zaki_Vpn_01, 🇩🇪 Zaki_Vpn_02, 🇩🇪 Zaki_Vpn_03, 🇩🇪 Zaki_Vpn_04, 🇳🇱 Zaki_Vpn_05, 🇩🇪 Zaki_Vpn_06
+🤜_earthlink = select, 🇩🇪 Zaki_Vpn_01, 🇳🇱 Zaki_Vpn_02, 🇩🇪 Zaki_Vpn_03, 🇩🇪 Zaki_Vpn_04, 🇳🇱 Zaki_Vpn_05, 🇩🇪 Zaki_Vpn_06
 
 [Rule]
 # Apple
