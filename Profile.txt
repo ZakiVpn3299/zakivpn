@@ -8,14 +8,15 @@ always-real-ip = stun.l.google.com
 
 🇺🇸 Zaki_Vpn_1 = vmess, oodi.zendesk.com, 443, username=49f54f10-9e0c-11ed-b430-205c6d5f5d78, ws=true, tls=true, ws-path=/gli2w703, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:nl-2.0rd.net
 
-Zaki_Vpn_2 = = vmess, oodi.zendesk.com, 443, username=e80ac9db-3b5c-4240-b3ce-70f81f3966b7, ws=true, tls=true, ws-path=/serverssh.net, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:geray.serverip.my.id, sni=geray.serverip.my.id
+🇩🇪 Zaki_Vpn_2 = = vmess, oodi.zendesk.com, 443, username=e80ac9db-3b5c-4240-b3ce-70f81f3966b7, ws=true, tls=true, ws-path=/serverssh.net, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:geray.serverip.my.id, sni=geray.serverip.my.id
 
 🇳🇱 Zaki_Vpn_3 = trojan, oodi.zendesk.com, 443, password=c7fc7f30-9e0d-11ed-bcfd-1239d0255272, ws=true, ws-path=/howdy, skip-cert-verify=false, udp-relay=true, ws-headers=Host:nl-trojan.bonds.id, sni=nl-trojan.bonds.id
 
 🇨🇦 Zaki_Vpn_4 = vmess, oodi.zendesk.com, 443, username=7bb46967-9b0c-4e9f-8d84-a1f4dbe52c99, ws=true, tls=true, ws-path=/serverssh.net, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:caray.serverip.my.id, sni=caray.serverip.my.id
+
 [Proxy Group]
 
-🤜_oodi = select, 🇨🇵 Zaki_Vpn_0, 🇺🇸 Zaki_Vpn_1, Zaki_Vpn_2, 🇳🇱 Zaki_Vpn_3, 🇨🇦 Zaki_Vpn_4
+🤜_oodi = select, 🇨🇵 Zaki_Vpn_0, 🇺🇸 Zaki_Vpn_1, 🇩🇪 Zaki_Vpn_2, 🇳🇱 Zaki_Vpn_3, 🇨🇦 Zaki_Vpn_4
 
 
 [Rule]
