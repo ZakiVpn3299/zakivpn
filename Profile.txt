@@ -25,7 +25,7 @@ always-real-ip = stun.l.google.com
 🇸🇬 Zaki_Vpn_9 = vmess, oodi.zendesk.com, 443, username=ca4c8610-9f62-11ed-b636-205c6d5f5d78, ws=true, tls=true, ws-path=/lcoiu0pf, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:sg-10.0rd.net
 
 [Proxy Group]
-🤜_oodi = select, 🇨🇵 Zaki_Vpn_0, 🇺🇸 Zaki_Vpn_1, 🇩🇪 Zaki_Vpn_2, 🇳🇱 Zaki_Vpn_3, 🇨🇦 Zaki_Vpn_4, 🇬🇧 Zaki_Vpn_5, 🇩🇪 Zaki_Vpn_6, 🇩🇪 Zaki_Vpn_7
+🤜_oodi = select, 🇨🇵 Zaki_Vpn_0, 🇺🇸 Zaki_Vpn_1, 🇩🇪 Zaki_Vpn_2, 🇳🇱 Zaki_Vpn_3, 🇨🇦 Zaki_Vpn_4, 🇬🇧 Zaki_Vpn_5, 🇩🇪 Zaki_Vpn_6, 🇩🇪 Zaki_Vpn_7, 🇨🇵 Zaki_Vpn_8, 🇸🇬 Zaki_Vpn_9
 
 
 [Rule]
