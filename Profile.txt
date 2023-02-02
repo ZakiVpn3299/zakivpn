@@ -16,7 +16,7 @@ always-real-ip = stun.l.google.com
 
 🇬🇧 Zaki_Vpn_5 = vmess, oodi.zendesk.com, 443, username=6003da30-d8eb-4a0a-9b16-59cc487cc8c9, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:ukmws.mainssh.xyz, sni=ukmws.mainssh.xyz
 
-🇩🇪 Zaki_Vpn_6 = vmess, oodi.zendesk.com, 443, username=3b1f760c-ea2f-43c1-a349-d3457f6477d2, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:de2-full.privateip.net, sni=de2-full.privateip.net
+🇩🇪 Zaki_Vpn_6 = vmess, oodi.zendesk.com, 443, username=54aae891-571e-4add-b5ce-282f682b49c6, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:de2-full.privateip.net, sni=de2-full.privateip.net
 
 🇩🇪 Zaki_Vpn_7 = vmess, oodi.zendesk.com, 443, username=edb8e24d-186f-45d7-ba60-d6f466cb7a3e, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:de3-full.privateip.net, sni=de3-full.privateip.net
 
