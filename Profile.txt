@@ -4,17 +4,17 @@ dns-server = system, 108.137.44.39, 108.137.44.9, puredns.org:853
 always-real-ip = stun.l.google.com
 
 [Proxy]
-🇨🇵 Zaki_Vpn_0 = vmess, oodi.zendesk.com, 443, username=cc6a5ea0-9e0b-11ed-b932-205c6d5f5d78, ws=true, tls=true, ws-path=/doeaq62x, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de-2.0rd.net, sni=de-2.0rd.net
+🇨🇵 Zaki_Vpn_0 = vmess, oodi.zendesk.com, 443, username=9b9d5246-c8bb-4030-b684-82d480ba2fb8, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:frmws.mainssh.xyz, sni=frmws.mainssh.xyz
 
-🇺🇸 Zaki_Vpn_1 = vmess, oodi.zendesk.com, 443, username=c3576500-1683-4ead-8e66-db95532d1db5, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:us-full.privateip.net, sni=us-full.privateip.net
+🇺🇸 Zaki_Vpn_1 = vmess, support.oodi.iq, 443, username=fc31015b-e910-4f78-a952-d015fb4f070c, ws=true, tls=true, ws-path=/sshkit, skip-cert-verify=false, udp-relay=true, vmess-aead=false, ws-headers=Host:usa-v2ray.sshkit.net, sni=usa-v2ray.sshkit.net
 
 🇩🇪 Zaki_Vpn_2 = vmess, oodi.zendesk.com, 443, username=e80ac9db-3b5c-4240-b3ce-70f81f3966b7, ws=true, tls=true, ws-path=/serverssh.net, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:geray.serverip.my.id, sni=geray.serverip.my.id
 
 🇳🇱 Zaki_Vpn_3 = vmess, oodi.zendesk.com, 443, username=a115031a-8708-4542-92f7-ea93461500b0, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=false, vmess-aead=true, ws-headers=host:nl-full.privateip.net, sni=nl-full.privateip.net
 
-🇨🇦 Zaki_Vpn_4 = vmess, oodi.zendesk.com, 443, username=7bb46967-9b0c-4e9f-8d84-a1f4dbe52c99, ws=true, tls=true, ws-path=/serverssh.net, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:caray.serverip.my.id, sni=caray.serverip.my.id
+🇨🇦 Zaki_Vpn_4 = vmess, oodi.zendesk.com, 443, username=4aeb07a6-5f95-488f-9d09-8975dace3f77, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:camws.mainssh.xyz, sni=camws.mainssh.xyz
 
-🇬🇧 Zaki_Vpn_5 = vmess, oodi.zendesk.com, 443, username=6003da30-d8eb-4a0a-9b16-59cc487cc8c9, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:ukmws.mainssh.xyz, sni=ukmws.mainssh.xyz
+🇬🇧 Zaki_Vpn_5 = vmess, oodi.zendesk.com, 443, username=4a9151a7-c3a4-48b6-bf79-8a655f59d7cc, ws=true, tls=true, ws-path=/vmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:ukmws.mainssh.xyz, sni=ukmws.mainssh.xyz
 
 🇩🇪 Zaki_Vpn_6 = vmess, oodi.zendesk.com, 443, username=54aae891-571e-4add-b5ce-282f682b49c6, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:de2-full.privateip.net, sni=de2-full.privateip.net
 
