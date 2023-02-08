@@ -18,9 +18,9 @@ always-real-ip = stun.l.google.com
 
 🇩🇪 Zaki_Vpn_6 = vmess, oodi.zendesk.com, 443, username=54aae891-571e-4add-b5ce-282f682b49c6, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:de2-full.privateip.net, sni=de2-full.privateip.net
 
-🇩🇪 Zaki_Vpn_7 = vmess, oodi.zendesk.com, 443, username=58ded279-bf2c-40aa-8043-7a8fe6a9fa4a, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=host:de3-full.privateip.net, sni=de3-full.privateip.net
+🇩🇪 Zaki_Vpn_7 =  trojan, oodi.zendesk.com, 443, password=123456a, ws=true, ws-path=/trojan-ws, skip-cert-verify=false, udp-relay=true, ws-headers=Host:trojan-ctb-de01.globalssh.xyz, sni=trojan-ctb-de01.globalssh.xyz
 
-🇩🇪 Zaki_Vpn_8 = vmess, oodi.zendesk.com, 443, username=c97d0f7d-46b7-424d-be1f-2528847e85f0, ws=true, tls=true, ws-path=/freevmess, skip-cert-verify=false, udp-relay=true, vmess-aead=true, ws-headers=Host:de-freevmess.privateip.net, sni=de-freevmess.privateip.net
+🇺🇸 Zaki_Vpn_8 =  trojan, oodi.zendesk.com, 443, password=123456a, ws=true, ws-path=/trojan-ws, skip-cert-verify=false, udp-relay=true, ws-headers=Host:trojan-ctb-us01.globalssh.xyz, sni=trojan-ctb-us01.globalssh.xyz
 
 🇮🇳 Zaki_Vpn_90 = vmess, oodi.zendesk.com, 443, username=4def2d83-4a9c-42a5-b112-cf874d73d391, ws=true, tls=true, ws-path=/racevpn, skip-cert-verify=false, udp-relay=false, vmess-aead=true, ws-headers=host:in-full.privateip.net, sni=in-full.privateip.net
 
